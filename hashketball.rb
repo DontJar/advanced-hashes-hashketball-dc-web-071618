@@ -215,5 +215,6 @@ this_player = nil
         this_player = general
       end
     end
-    this_player
-  end
+  this_player
+end
+end
